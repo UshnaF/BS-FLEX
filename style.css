@@ -1,0 +1,17 @@
+.flexContainer{
+    display:flex;
+    flex-wrap:wrap;
+    background-color: chocolate;
+    justify-content: center;
+}
+.flexContainer div{
+    background-color: burlywood;
+    width: 40px;
+    text-align: center;
+    font-style:oblique;
+    font-size: 45px;
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
